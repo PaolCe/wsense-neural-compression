@@ -1,0 +1,8 @@
+{
+  "task1_scale": 0.25,
+  "task1_quality": 20,
+  "task3_scale": 0.25,
+  "task3_quality": 20,
+  "arch": {"base": 32, "blocks_per_stage": 2},
+  "backend": "AVIF"
+}
